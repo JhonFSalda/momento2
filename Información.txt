@@ -1,0 +1,7 @@
+hernan2hernan3nombre: test55
+nombre: test55yy
+nombre: test55yyuu
+edad: mayor - 44 años. 
+edad: menor - 12 años. 
+edad: mayor - 99 años. 
+edad: mayor - 42 años. 
